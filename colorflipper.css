@@ -1,0 +1,53 @@
+h3{
+    letter-spacing: 3px;
+    color: rgb(29, 165, 206);
+    padding-top: 0.5vh; 
+}
+
+h4{
+    letter-spacing: 3px;  
+    position: relative; 
+    bottom:6.7vh ;
+    left: 70%;
+    font-size: large;
+    padding-top:0.5vh ;   
+}
+
+.firstbackground{
+    background-color: white;
+    height: 4vh;
+    width: 100vw;
+    position: relative;
+    bottom: 2.5vh;
+    right: 1.4vw;
+}
+body{
+    background-color: rgb(235, 5, 5);
+}
+button{
+    height: 5vh;
+    width: 20vw;
+    background-color: black;
+    color: white;
+    position: relative;
+    top: 22vh;
+    left: 40vw;
+    border-radius: 10px;
+
+}
+
+.seconddiv{
+    height: 25vh;
+    background-color: black;
+    border-radius: 10px;
+    position: relative;
+    top: 16vh;
+    color: white;
+    font-size: 3rem;
+    padding-left: 5vw;
+    padding-top: 10vh;
+}
+span{
+    color: turquoise;
+    
+}
